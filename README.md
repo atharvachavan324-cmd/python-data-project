@@ -1,4 +1,4 @@
-# Python Data Projects – Atharva Chavan
+# Python Data Projects
 
 This repository contains two beginner-friendly data projects using Python, Pandas, and basic workflow automation.
 
@@ -30,3 +30,4 @@ This repository contains two beginner-friendly data projects using Python, Panda
 ---
 
 📌 Created by [Atharva Chavan]
+
